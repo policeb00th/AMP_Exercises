@@ -27,11 +27,6 @@ The main file for computing the cost between predicted and actual values. It's y
 * #### gradientDescent.py
 The main file for actually implementing the gradient descent algorithm. It's your job (Again) to complete this file to get the desired results as mentioned in the comments within the file.
 
-In order to get the desire result, navigate the the directory containing the files i.e.:
-```
-cd your-path-to-the-folder/Week2
-```
-And run the file from there 
 
 ## Linear regression with two variables
 
