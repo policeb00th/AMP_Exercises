@@ -60,6 +60,6 @@ The file that contains the function for applying sigmoid to a numpy array. **Mak
 
 In order to get the desire result, navigate the the directory containing the files i.e.:
 ```
-cd your-path-to-the-folder/Week2
+cd your-path-to-the-folder/Week1
 ```
 And run the file from there 
